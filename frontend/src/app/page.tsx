@@ -19,7 +19,7 @@ export default function Home() {
       setLoading(true)
 
       const response = await axios.post(
-        '${process.env.NEXT_PUBLIC_API_URL}/generate',
+        `${process.env.NEXT_PUBLIC_API_URL}/generate`,
         {
           prompt
         },
