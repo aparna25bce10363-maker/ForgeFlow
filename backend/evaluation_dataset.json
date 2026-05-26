@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "type": "normal",
+    "prompt": "Build a CRM with login and dashboard"
+  },
+  {
+    "id": 2,
+    "type": "normal",
+    "prompt": "Create an ecommerce app with payments and orders"
+  },
+  {
+    "id": 3,
+    "type": "normal",
+    "prompt": "Build a school management portal with teachers and students"
+  },
+  {
+    "id": 4,
+    "type": "normal",
+    "prompt": "Create a SaaS analytics dashboard for admins"
+  },
+  {
+    "id": 5,
+    "type": "normal",
+    "prompt": "Build a task manager with authentication"
+  },
+  {
+    "id": 6,
+    "type": "normal",
+    "prompt": "Create a blogging platform with users and comments"
+  },
+  {
+    "id": 7,
+    "type": "normal",
+    "prompt": "Build a hospital management system"
+  },
+  {
+    "id": 8,
+    "type": "normal",
+    "prompt": "Create a finance tracker with premium plans"
+  },
+  {
+    "id": 9,
+    "type": "normal",
+    "prompt": "Build an employee management portal"
+  },
+  {
+    "id": 10,
+    "type": "normal",
+    "prompt": "Create a social media dashboard"
+  },
+
+  {
+    "id": 11,
+    "type": "edge",
+    "prompt": "Build something modern"
+  },
+  {
+    "id": 12,
+    "type": "edge",
+    "prompt": "App with login but no users"
+  },
+  {
+    "id": 13,
+    "type": "edge",
+    "prompt": "Dashboard dashboard dashboard"
+  },
+  {
+    "id": 14,
+    "type": "edge",
+    "prompt": "Conflicting admin permissions"
+  },
+  {
+    "id": 15,
+    "type": "edge",
+    "prompt": "Build app"
+  },
+  {
+    "id": 16,
+    "type": "edge",
+    "prompt": "Create platform with payments but no products"
+  },
+  {
+    "id": 17,
+    "type": "edge",
+    "prompt": "Admin users should not access admin routes"
+  },
+  {
+    "id": 18,
+    "type": "edge",
+    "prompt": "Analytics system without data storage"
+  },
+  {
+    "id": 19,
+    "type": "edge",
+    "prompt": "Build ecommerce app with no users"
+  },
+  {
+    "id": 20,
+    "type": "edge",
+    "prompt": "Role based auth without roles"
+  }
+]
